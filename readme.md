@@ -39,15 +39,15 @@ Variables are used to store values in memory. Python allows different data types
 ## 5. Operators
 Python supports several types of operators.
 
-### Arithmetic Operators
-### Comparison Operators
-### Logical Operators
-### Bitwise Operators
-### Identity Operators
-### Membership Operators
-### Ternary Operator
-### Operator Precedence
-## 6. Conditional Logic Basics
+Arithmetic Operators
+Comparison Operators
+Logical Operators
+Bitwise Operators
+Identity Operators
+Membership Operators
+Ternary Operator
+Operator Precedence
+Conditional Logic Basics
 
 
 ## 7. Python Keywords
