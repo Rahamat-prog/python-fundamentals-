@@ -39,7 +39,7 @@ Variables are used to store values in memory. Python allows different data types
 ## 5. Operators
 Python supports several types of operators.
 
-Arithmetic Operators
+# Arithmetic Operators
 Comparison Operators
 Logical Operators
 Bitwise Operators

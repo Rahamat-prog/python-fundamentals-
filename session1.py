@@ -13,22 +13,22 @@
 
 
 # ..........Input and output in python...........
-# name = input("Enter your name: ");
+name = input("Enter your name: ");
 # print("Hello", name, "!welcome");
 
-# x, y = input("Enter two number: ").split();
+x, y = input("Enter two number: ").split();
 # print(x, y);
 
-# i = int(input("How old are you ?: "));
-# f = float(input("Evaluate 7/2: "));
+i = int(input("How old are you ?: "));
+f = float(input("Evaluate 7/2: "));
 # print(i, f);
 
 # print(5);
 
 
 # ..........python variables..............
-# x = 5 
-# name = "Alex"
+x = 5 
+name = "Alex"
 # print(x, name)
 
 # a = b = c = 100
