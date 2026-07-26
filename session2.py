@@ -5,6 +5,11 @@ a = 5
 b = 5.0
 c = 2 + 4j
 
-print(type(a))
-print(type(b))
-print(type(c))
+# print(type(a))
+# print(type(b))
+# print(type(c))
+
+
+d = {1: 'Geeks', 2: 'For', 3: 'Geeks'}
+print(d[1])    
+print(d.get(2))
